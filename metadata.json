@@ -1,0 +1,6 @@
+{
+  "name": "WebCraft Studio - AI Web & App Generator & Deployer",
+  "description": "ማንኛውንም አይነትና መጠን ድረገፅ እና አፕሊኬሽን በAI ገንብቶ እዚያው ላይ ዲፕሎይ የሚያደርግ የላቀ ስቱዲዮ (Build, preview, iterate and instantly deploy any web app or site with AI).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
